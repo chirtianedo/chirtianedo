@@ -64,10 +64,7 @@ Especially drawn to work that tests both the analytical and creative sides of en
 
 ---
 
-### 🎓 Education & Certifications
-
-
-- **BSc, Physiotherapy** — University of Ibadan (2012–2018)
+### 🎓 Relevant Certifications
 - Deep Learning Lab — WorldQuant University (2024)
 - Applied Data Science Lab — WorldQuant University (2022)
 - Data Science & Machine Learning Bootcamp with R — Udemy (2021)
