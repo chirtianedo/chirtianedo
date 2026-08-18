@@ -57,8 +57,8 @@ Especially drawn to work that tests both the analytical and creative sides of en
 
 ### 📊 GitHub Stats
 
-![chirtianedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirtianedo&show_icons=true&theme=chartreuse-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirtianedo&layout=compact&theme=chartreuse-dark)
+[chirtianedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirtianedo&theme=chartreuse-dark&count_private=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chirtianedo&layout=compact&theme=chartreuse-dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chirtianedo&theme=chartreuse-dark)
 
